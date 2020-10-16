@@ -1,0 +1,309 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed|Grenze|Noto+Sans+SC&display=swap');
+*{
+	margin: 0; padding: 0;
+}
+
+body{
+	background-color: #000;
+}
+
+nav{
+	text-align: center;
+	padding: 5px;
+}
+
+.link-princ{
+	font-size: 1.2em;	
+	color: #FFFFFF;	
+	font-family: Noto Sans SC, sans-serif;
+	text-decoration: none;
+	padding: 150px;
+	margin: 15px;
+}
+
+a:link, a:visited{
+	color: #FFF;
+}
+
+a:hover, a:active{
+	color: red;
+	font-weight: bold;
+}
+
+header{
+	width: 100%;
+	height: 580px;
+}
+
+img{
+	width: 100%;
+	height: 580px;
+}
+
+article{
+	padding: 15px;
+	margin-bottom: 20px;
+}
+
+h1{
+	font-size: 4em;
+	color: #FFF;
+	font-family: Grenze;
+	text-align: right;
+	margin-bottom:55px; 
+	margin-top:30px;
+}
+
+p{
+	font-size: 1.2em;
+	font-family: Fira Sans Extra Condensed;
+	color: #FFF;
+	text-align: justify;
+	margin-top: 30px;
+	margin-right: 15px;
+}
+
+h2{
+	font-size: 3em;
+	color: #FFF;
+	font-family: Grenze;
+	text-align: right;
+	margin-top: 35px;
+	margin-right: 15px;
+	margin-bottom: 50px;
+}
+
+#pag_rank p{
+	padding: 20px;
+}
+
+ol{
+	margin-left: 70px;
+}
+
+li{
+	font-family:Fira Sans Extra Condensed;
+	font-size: 1.2em;
+	margin-top: 20px;
+	color: #FFF;
+}
+
+#pag_lanc p{
+	padding: 20px;
+	margin-bottom: 30px;
+}
+
+table{
+	margin: 30px 0; 
+	border: 1px solid #FFFFFF;
+}
+
+.title_jogo{
+	font-family: Fira Sans Extra Condensed;
+	font-size: 1.2em;
+	color: #FFF;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.img_jogos{
+	width: 100%;
+	height: 440px;
+}
+
+.desc_jogo{
+	font-family: Fira Sans Extra Condensed;
+	font-size: 1.0em;
+	color: #FFF;
+	text-align: center;
+}
+
+.topo{
+	width: 40px;
+	height: 40px;
+	position: fixed;
+	right: 15px;
+	bottom: 25px;
+}
+
+footer{
+	background-color: #444;
+	padding: 10px;
+}
+
+footer p{
+	text-align: center;
+	color: #FFFFFF;
+}
+
+form{
+	border: 1px solid #FFFFFF;
+	width: 40%;
+	margin: auto;
+	padding: 20px;
+	text-align: left;
+	margin-bottom: 100px;
+	margin-top: 90px;
+}
+
+form p{
+	text-indent: 0;
+}
+
+#button{
+	border-radius: 2px;
+	padding: 10px;
+	margin: 10px;
+}
+
+input, select{
+	height: 20px;
+	font-size: 1em;
+	font-family:Fira Sans Extra Condensed;
+	color: #000;
+
+}
+
+input[type="nome"]{
+	width: 120px;
+}
+
+input[type="email"]{
+	width: 30%;
+}
+
+input[type="submit"], [type="reset"]{
+	width: 180px;
+	height: 50px;
+	color: #000;
+	background-color: green;
+	border-radius: 90px;
+	margin: 30px;
+}
+
+input[type="reset"]{
+	background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
